@@ -1,9 +1,6 @@
 # Learning
 本仓库主要存储个人的学习历程~ 保存些个人正在学习的东西，学习路线，资料与练习的代码等。也保存些自己整理的一些比较有用的东西？
 
-**希望仓库会越来越满~**
-<div style="text-align:center"><img src="https://i.ibb.co/85tTvLM/g3cbzs.jpg" /></div>
-
 
 ## 目前的学习路线
 
@@ -44,4 +41,7 @@
 影音方向：PR->PS->AE
 
 ACGN方向：整理动画/小说/漫画常用的软件及网站
+
+**希望仓库会越来越满~**
+<div style="text-align:center"><img src="https://i.ibb.co/85tTvLM/g3cbzs.jpg" /></div>
 
