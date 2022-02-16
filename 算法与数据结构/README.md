@@ -6,7 +6,12 @@
 
 #### 网课资源
 
-- 
+- [数据结构与算法基础（青岛大学-王卓）](https://www.bilibili.com/video/BV1nJ411V7bd?from=search&seid=12276087829402870816&spm_id_from=333.337.0.0)
+- 王道考研网课
+- [oiwiki](https://oi-wiki.org/)
+- [洛谷](https://www.luogu.com.cn/)
+- [力扣](https://leetcode-cn.com/)
+- [牛客](https://www.nowcoder.com/)
 
 
 

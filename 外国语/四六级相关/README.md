@@ -1,11 +1,16 @@
 # 四六级相关
 
-#### 收录如下：
 
-- 四级，六级词汇（新东方乱序版） **->六级词汇需要百度网盘下载**
-- [六级模拟题](https://github.com/sunshineclover/HFUT-EISAT-CoursesData/tree/main/%E5%85%B6%E4%BB%96%E8%B5%84%E6%96%99/%E5%9B%9B%E5%85%AD%E7%BA%A7%E7%9B%B8%E5%85%B3/%E8%8B%B1%E8%AF%AD%E5%85%AD%E7%BA%A7%E6%A8%A1%E6%8B%9F%E5%8D%B7%E5%8F%8A%E5%90%AC%E5%8A%9B)
 
-蓝奏云链接：https://wwn.lanzouo.com/b02uivmqf
+#### 网课资料
 
-提取密码：dceo
+- [【2021英语四级CET4】最新英语四级听力合集 | 双语字幕 | 带选项（超清）](https://www.bilibili.com/video/BV1V5411N7PG?spm_id_from=333.999.0.0)
+
+- [【2021英语六级CET6】最新英语六级听力合集 | 双语字幕 | 带选项（超清）](https://www.bilibili.com/video/BV1gr4y1A7hB?from=search&seid=13169617169225114365&spm_id_from=333.337.0.0)
+
+#### 书籍资料
+
+- 新东方英语词汇（乱序版）（绿的那个）
+
+没啥想法...考前两天开始复习，考前的一天一定要做一套完整的卷子，考前1小时一定要循环英语听力，保持听力的感觉就好~
 

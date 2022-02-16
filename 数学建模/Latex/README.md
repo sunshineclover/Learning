@@ -12,7 +12,14 @@
 
 #### 书本资源
 
-无
+- [论文常用Latex代码](https://levitate-qian.github.io/2020/08/30/latex-code/)
+- [如何在1小时内快速入手LaTeX？](https://www.zhihu.com/question/268569440)
+
+
+
+#### 小工具
+
+- [Latex公式编辑器](https://www.latexlive.com/)
 
 ## 学习笔记
 
