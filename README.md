@@ -46,6 +46,9 @@
 
 ACGN方向：整理动画/小说/漫画常用的软件及网站
 
+专业课相关：电路->复变函数/信号与系统->**数电模电电磁场**
+
 **希望仓库会越来越满~**
+
 <div style="text-align:center"><img src="https://i.ibb.co/gmhq0Rk/illust-87053561-20220320-160245.png" /></div>
 
