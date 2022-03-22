@@ -24,21 +24,21 @@
 
 寒假：Vue2+Vue3部分+机器学习部分知识+汇编语言
 
-大二下：（专业课学习基础上） **汇编语言**
+大二下：（专业课学习基础上） 汇编语言->**计算机组成原理**
 
 ### 按内容顺序
 
-前端方向：H5C3JS->Jquerry->Ajax->Node.js->**Vue2/Vue3**
+前端方向：H5C3JS->Jquerry->Ajax->Node.js->Vue2/Vue3->**复习前面内容**
 
-后端语言方向：C->Cpp/Python/Java（基础）
+后端语言方向：C->Cpp/Python/Java（基础）->**复习Python**
 
-计算机方向：算法/数据结构（基础）->离散数学->**汇编语言**
+计算机方向：算法/数据结构（基础）->离散数学->汇编语言->**计算机组成原理**
 
-机器学习方向：吴恩达机器学习->**Pytorch（小土堆）**
+机器学习方向：**吴恩达机器学习**
 
-数学建模方向：Latex->Matlab->作图->常见模型
+数学建模方向：Latex->Matlab->作图->**常见模型**
 
-单片机方向：51->
+单片机方向：**51**
 
 外国语方向：**学日语**
 
@@ -47,5 +47,5 @@
 ACGN方向：整理动画/小说/漫画常用的软件及网站
 
 **希望仓库会越来越满~**
-<div style="text-align:center"><img src="https://i.ibb.co/85tTvLM/g3cbzs.jpg" /></div>
+<div style="text-align:center"><img src="https://i.ibb.co/gmhq0Rk/illust-87053561-20220320-160245.png" /></div>
 
