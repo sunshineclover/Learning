@@ -11,6 +11,12 @@
 
 **Notion链接**：https://www.notion.so/sunshineclover/ac7a81c157e5489c8a0a6fea58ee740d
 
+**资料链接（百度网盘）**：链接：https://pan.baidu.com/s/14hdr9cMtPcKFDvpgtJClzA?pwd=hfut 提取码：hfut 
+
+**资料链接（OD盘）**：https://1drv.ms/u/s!Ag6ozdxbt6yi4lONqhzvWHJX2Vqe?e=QdH5OJ  密码：hfut
+
+**资料链接（阿里盘）**：https://www.aliyundrive.com/s/zsDoouG71Ks 提取码：hfut
+
 
 
 
