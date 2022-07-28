@@ -9,7 +9,7 @@
 
 同时，你也可以在我的**Notion**查看**当前学习进程和内容**。
 
-**Notion链接**：https://www.notion.so/sunshineclover/ac7a81c157e5489c8a0a6fea58ee740d
+**Notion链接**：https://sunshineclover.notion.site/ac7a81c157e5489c8a0a6fea58ee740d
 
 **资料链接（百度网盘）**：链接：https://pan.baidu.com/s/14hdr9cMtPcKFDvpgtJClzA?pwd=hfut 提取码：hfut 
 
